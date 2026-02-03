@@ -97,6 +97,8 @@ Some raw and intermediate data files used in this project exceed GitHub’s file
 ### Author
 
 Built by Emmanuel Olusolade
+
 Focus areas: Data Analytics, Business Intelligence, and Predictive Modeling
+
 
 
