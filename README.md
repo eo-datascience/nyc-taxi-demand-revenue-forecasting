@@ -76,12 +76,12 @@ Note: Since actual values for future dates are unavailable, the forecast is pres
 
 
 ## Tools & Technologies
-- Power BI – data modeling, visualization, dashboard design
-- Power Query (M) – data ingestion, cleaning, transformation, feature preparation
-- Data Modeling – star-schema design, relationships, date handling
-- DAX – calculated measures, aggregations, KPIs
-- Python / ML (external) – time-series forecasting model development
-- Time-series analysis – demand forecasting and trend modeling
+- Power BI : data modeling, visualization, dashboard design
+- Power Query (M) : data ingestion, cleaning, transformation, feature preparation
+- Data Modeling : star-schema design, relationships, date handling
+- DAX : calculated measures, aggregations, KPIs
+- Python / ML (external) : time-series forecasting model development
+- Time-series analysis : demand forecasting and trend modeling
 
 
 ## Key Takeaways
@@ -98,4 +98,5 @@ Some raw and intermediate data files used in this project exceed GitHub’s file
 
 Built by Emmanuel Olusolade
 Focus areas: Data Analytics, Business Intelligence, and Predictive Modeling
+
 
