@@ -90,8 +90,12 @@ Note: Since actual values for future dates are unavailable, the forecast is pres
 - Most trips cluster around mid-range durations
 - Forecasting provides a forward-looking extension to historical BI analysis
 
+## Note on Data Availability
+
+Some raw and intermediate data files used in this project exceed GitHub’s file size limits and are therefore not included in this repository. The project structure and analysis logic are fully preserved, and the code can be executed on the original datasets if they are available locally.
 
 ### Author
 
 Built by Emmanuel Olusolade
 Focus areas: Data Analytics, Business Intelligence, and Predictive Modeling
+
